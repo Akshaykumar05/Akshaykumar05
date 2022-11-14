@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Microsoft Azure, AWS**
 
-- 📫 How to reach me **akshay928612@gmail.com**
-- 
+- 📫 Reach out to me at **akshay928612@gmail.com**
+
 [![@akshaykumar02's Holopin board](https://holopin.me/akshaykumar02)](https://holopin.io/@akshaykumar02)
 
 <h3 align="left">Connect with me:</h3>
