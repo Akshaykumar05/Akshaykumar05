@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 - 📫 Reach out to me at **akshay928612@gmail.com**
 
+- Hacktoberfest 2022 Badges:
+
 [![@akshaykumar02's Holopin board](https://holopin.me/akshaykumar02)](https://holopin.io/@akshaykumar02)
 
 <h3 align="left">Connect with me:</h3>
