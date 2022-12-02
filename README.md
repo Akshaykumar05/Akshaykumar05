@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/akshayktwt" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/akshayktwt?logo=twitter&style=for-the-badge" alt="https://twitter.com/akshayktwt" /></a> </p>
 
-- 🌱 I’m currently learning **Linux, Docker, Kubernetes**
+- 🌱 I’m currently learning **Linux, Javascript, Docker, Kubernetes**
 
 - 💬 Ask me about **Microsoft Azure, AWS**
 
