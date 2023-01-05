@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 <h3 align="center">I am passionate about DevOps and DevRel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaykumar05&label=Profile%20views&color=0e75b6&style=flat" alt="akshaykumar05" /> </p>
+<a href="https://twitter.com/akshayktwt" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/akshayktwt?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/akshayktwt" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/akshayktwt?logo=twitter&style=for-the-badge" alt="https://twitter.com/akshayktwt" /></a> </p>
 
 - 🌱 I’m currently learning **Linux, Python, Docker**
 
@@ -27,9 +29,7 @@ Here are some ideas to get you started:
 
 - 📫 Reach out to me at **akshay928612@gmail.com**
 
-- Hacktoberfest 2022 Badges:
 
-[![@akshaykumar02's Holopin board](https://holopin.me/akshaykumar02)](https://holopin.io/@akshaykumar02)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,6 +39,16 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> </p>
+
+<!-- HASHNODE_BLOG:START -->
+
+<!-- HASHNODE_BLOG:END -->
+
+<div align="center">
+<p align="center"><b>FOR MORE BLOGS ⬇</b></p>
+<p><a href="https://akshaykumar05.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
+</div>
+
 <details>
 <summary><h2>My GitHub Stats</h2></summary>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaykumar05&show_icons=true&locale=en&layout=compact" alt="akshaykumar05" /></p>
