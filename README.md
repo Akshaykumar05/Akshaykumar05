@@ -44,7 +44,12 @@ src="https://img.shields.io/twitter/follow/akshayktwt?logo=twitter&style=for-the
 
 <h2> <a href="https://Akshaykumar05.hashnode.dev"><img src="https://github.com/Arindam200/Arindam200/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent Blogs on Hashnode</h2>
 <!-- HASHNODE_BLOG:START -->
-
+<p align="left">
+<a href="https://akshaykumar05.hashnode.dev//microsoft-azure-fundamentals-az-900-certificate" title="Microsoft Azure Fundamentals (az-900) Certificate"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673295373333/48b9533a-3621-4f7f-ac3d-11266dd4b9ef.jpeg" alt="Microsoft Azure Fundamentals (az-900) Certificate" width="250px" align="left" /></a>
+<a href="https://akshaykumar05.hashnode.dev//microsoft-azure-fundamentals-az-900-certificate" title="Microsoft Azure Fundamentals (az-900) Certificate"><strong>Microsoft Azure Fundamentals (az-900) Certificate</strong></a>
+<br/> Introduction
+In this blog, I m going to share my experience with Microsoft Azure Fundamentals (az-900) exam. It took me around 2 months to cover all the cloud topics and I cleared the certificate in one go with 865/1000 marks (passing marks 700)
+Impo... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <div align="center">
