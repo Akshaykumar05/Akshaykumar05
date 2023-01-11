@@ -23,7 +23,7 @@ src="https://img.shields.io/twitter/follow/akshayktwt?logo=twitter&style=for-the
 /></a>
 
 
-- 🌱 I’m currently learning **Linux, Python, Docker,**
+- 🌱 I’m currently learning **Linux, Python**
 
 - 💬 Ask me about **Microsoft Azure, AWS, How to grow in IT, UPSC**
 
