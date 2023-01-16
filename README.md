@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Pytho, Linux and Github
+- 🌱 I’m currently learning Pytho, Linux and Github.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -23,7 +23,7 @@ src="https://img.shields.io/twitter/follow/akshayktwt?logo=twitter&style=for-the
 /></a>
 
 
-- 🌱 I’m currently learning **Linux, Python**
+- 🌱 I’m currently learning **Linux, Python, Git & Github**
 
 - 💬 Ask me about **Microsoft Azure, AWS, How to grow in IT, UPSC**
 
