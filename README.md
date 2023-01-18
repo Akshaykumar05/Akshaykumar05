@@ -69,5 +69,4 @@ Impo... </p> <br/> <br/>
 </div>
 </td>
 </tr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykumar05&" alt="akshaykumar05" /></p>
-</details>
+
