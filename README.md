@@ -22,11 +22,13 @@ Here are some ideas to get you started:
 src="https://img.shields.io/twitter/follow/akshayktwt?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
-
-- 🌱 I’m currently taking training of **DevOps**
-
-- 💬 Ask me about **Microsoft Azure, AWS, How to grow in IT, UPSC**
-
+- 🔭 I’m currently working on community building **GrowInCommunity** to help & guide people. This community has a agenda of Learn, Build & Grow together.
+- 🌱 I’m currently taking training of **DevOps** 
+- 💞️ I’m open to collaborate on GitHub and opend source projects related to cloud computing and cloud native.
+- 💬 Ask me about **Cloud, DevOps, How to grow in IT, UPSC**
+- 📝 I regularly write articles on [Hashnode](https://imransaifi.hashnode.dev/)
+- ⚡ My hobbies are **Reading personal development books, Dance, Singing, Guitar, Boxing**
+- 🤔 Fun fact: Before starting my career in tech, I was preparing for **UPSC** 
 - 📫 Reach out to me at **akshay928612@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
