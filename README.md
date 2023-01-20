@@ -26,7 +26,7 @@ src="https://img.shields.io/twitter/follow/akshayktwt?logo=twitter&style=for-the
 - 🌱 I’m currently taking training of **DevOps** and learning **Linux** & **Python**
 - 💞️ I’m open to collaborate on GitHub and opend source projects related to cloud computing and cloud native.
 - 💬 Ask me about **Cloud, DevOps, How to grow in IT, UPSC**
-- 📝 I regularly write articles on [Hashnode](https://imransaifi.hashnode.dev/)
+- 📝 I write articles on [Hashnode](https://imransaifi.hashnode.dev/)
 - ⚡ My hobbies are **Reading personal development books, Dance, Singing, Guitar, Boxing**
 - 🤔 Fun fact: Before starting my career in tech, I was preparing for **UPSC** 
 - 📫 Reach out to me at **akshay928612@gmail.com**
