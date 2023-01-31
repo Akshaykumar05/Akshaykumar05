@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/> I'm Akshay Kumar</h1> 
-<h3 align="center">I am passionate about DevOps and DevRel</h3>
+<h3 align="center">I am passionate about Cloud, DevOps and DevRel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaykumar05&label=Profile%20views&color=0e75b6&style=flat" alt="akshaykumar05" /> </p>
 <a href="https://twitter.com/akshayktwt" target="_blank" rel="noreferrer"><img
