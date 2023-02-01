@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 src="https://img.shields.io/twitter/follow/akshayktwt?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
-- 🔭 I’m currently working as a founder and Community Manager at **GrowInCommunity**, this is to help & guide people along with my tech learning journey. This community has an agenda of Learn, Build & Grow together.
+- 🔭 I’m currently working as a founder and Community Manager at **GrowInCommunity**, this community is to help & guide people along with my tech learning journey and the main agenda is to Learn, Build & Grow together in community.
 - 🌱 I’m currently taking training of **DevOps** and learning **Linux** & **Python**
 - 💞️ I’m open to collaborate on GitHub and opend source projects related to cloud computing and cloud native.
 - 💬 Ask me about **Cloud, DevOps, How to grow in Tech, UPSC**
