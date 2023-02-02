@@ -62,7 +62,7 @@ Impo... </p> <br/> <br/>
 <p align="left">
 <a href="https://github.com/Akshaykumar05">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akshaykumar05&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaykumar05&theme=algolia"/>
+  
 </a>
 </p>
  
