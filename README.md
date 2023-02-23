@@ -44,6 +44,14 @@ src="https://img.shields.io/twitter/follow/akshayktwt?logo=twitter&style=for-the
 <h2> <a href="https://Akshaykumar05.hashnode.dev"><img src="https://github.com/Arindam200/Arindam200/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent Blogs on Hashnode</h2>
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://akshaykumar05.hashnode.dev//all-about-the-devrel" title="All About The DevRel"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675352651710/1d36d1ce-c8fb-4fe2-9fb5-35bae64c162a.png" alt="All About The DevRel" width="250px" align="left" /></a>
+<a href="https://akshaykumar05.hashnode.dev//all-about-the-devrel" title="All About The DevRel"><strong>All About The DevRel</strong></a>
+<br/> What is DevRel?
+
+DevRel also known as Developer Relations or Developer Advocacy, DevRel helps to educate developers and get people into the community to contribute.
+
+DevRel is the face of the company. He should know very well about the products of th... </p> <br/> <br/>
+<p align="left">
 <a href="https://akshaykumar05.hashnode.dev//microsoft-azure-fundamentals-az-900-exam" title="Microsoft Azure Fundamentals (az-900) Exam"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673295373333/48b9533a-3621-4f7f-ac3d-11266dd4b9ef.jpeg" alt="Microsoft Azure Fundamentals (az-900) Exam" width="250px" align="left" /></a>
 <a href="https://akshaykumar05.hashnode.dev//microsoft-azure-fundamentals-az-900-exam" title="Microsoft Azure Fundamentals (az-900) Exam"><strong>Microsoft Azure Fundamentals (az-900) Exam</strong></a>
 <br/> Introduction
