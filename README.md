@@ -46,11 +46,8 @@ src="https://img.shields.io/twitter/follow/akshayktwt?logo=twitter&style=for-the
 <p align="left">
 <a href="https://akshaykumar05.hashnode.dev//all-about-the-devrel" title="All About The DevRel"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675352651710/1d36d1ce-c8fb-4fe2-9fb5-35bae64c162a.png" alt="All About The DevRel" width="250px" align="left" /></a>
 <a href="https://akshaykumar05.hashnode.dev//all-about-the-devrel" title="All About The DevRel"><strong>All About The DevRel</strong></a>
-<br/> What is DevRel?
-
-DevRel also known as Developer Relations or Developer Advocacy, DevRel helps to educate developers and get people into the community to contribute.
-
-DevRel is the face of the company. He should know very well about the products of th... </p> <br/> <br/>
+<br/> Introduction
+A couple of days ago I heard the word "DevRel" from many people. I was very curious about its roles, responsibilities and how to get into it. Then I listened to many people who are working as DevRel, I also attended some Twitter spaces w... </p> <br/> <br/>
 <p align="left">
 <a href="https://akshaykumar05.hashnode.dev//microsoft-azure-fundamentals-az-900-exam" title="Microsoft Azure Fundamentals (az-900) Exam"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673295373333/48b9533a-3621-4f7f-ac3d-11266dd4b9ef.jpeg" alt="Microsoft Azure Fundamentals (az-900) Exam" width="250px" align="left" /></a>
 <a href="https://akshaykumar05.hashnode.dev//microsoft-azure-fundamentals-az-900-exam" title="Microsoft Azure Fundamentals (az-900) Exam"><strong>Microsoft Azure Fundamentals (az-900) Exam</strong></a>
