@@ -27,7 +27,7 @@ src="https://img.shields.io/twitter/follow/akshayktwt?logo=twitter&style=for-the
 - 🔭 I’m currently working as a founder and Community Manager at [GrowInCommunity](https://twitter.com/GrowInComm), this community is to help & guide people along with my tech learning journey and the main agenda is to Learn, Build & Grow together in community.
 - 🌱 Also I’m doing internship of **DevOps** at **IoTIoT.in**
 - 💞️ I’m open to collaborate on GitHub and opend source projects related to cloud computing and cloud native.
-- 💬 Ask me about **Cloud, DevOps, How to grow in Tech, UPSC**
+- 💬 Ask me about **Cloud, DevOps, How to grow in Tech & UPSC**
 - 📝 I write blogs on [Hashnode](https://imransaifi.hashnode.dev/)
 - ⚡ My hobbies are **Book reading, Dance, Music & Boxing**
 - 🤔 Fun fact: Before starting my career in tech, I was preparing for **UPSC** 
