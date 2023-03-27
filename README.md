@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/akshayktwt" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/akshayktwt?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
+<img src="https://wilcobadge.vercel.app/api/handler?wilconame=akshaykumar05" />
 
 ## 🧐 About
 - 🔭 I’m currently working as a founder and Community Manager at [GrowInCommunity](https://twitter.com/GrowInComm), this community is to help & guide people along with my tech learning journey and the main agenda is to Learn, Build & Grow together in community.
