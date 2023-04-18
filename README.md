@@ -62,6 +62,8 @@ Impo... </p> <br/> <br/>
 <p><a href="https://akshaykumar05.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
 </div>
 
+<h2>Latest Twitter Spaces </h2>
+
 <details>
 <summary><h2>My GitHub Stats</h2></summary>
 </div>
