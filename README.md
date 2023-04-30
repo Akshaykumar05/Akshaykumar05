@@ -26,7 +26,7 @@ src="https://img.shields.io/twitter/follow/akshayktwt?logo=twitter&style=for-the
 
 ## **Talking about Personal Stuffs:** 🧐
 - 🔭 I’m currently working as a founder and Manager at [GrowInCommunity](https://twitter.com/GrowInComm), this community is to help & guide people along with my tech learning journey and the main agenda is to Learn, Build & Grow together in community.
-- 🌱 Ans I am doing internship of **DevOps** at **IoTIoT.in** and **Ambassador** of [Wilco](https://www.trywilco.com/)
+- 🌱 Doing internship of **DevOps** at **IoTIoT.in** and **Ambassador** of [Wilco](https://www.trywilco.com/)
 - 💞️ I’m open to collaborate on GitHub and opend source projects related to cloud computing and cloud native.
 - 💬 Ask me about **Cloud, DevOps, How to grow in Tech and UPSC**
 - 📝 I write blogs on [Hashnode](https://imransaifi.hashnode.dev/)
@@ -62,7 +62,8 @@ Impo... </p> <br/> <br/>
 <p><a href="https://akshaykumar05.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
 </div>
 
-<h2>Latest Twitter Spaces </h2>
+<h2>Recent Twitter Spaces </h2>
+* [DevOps and Cloud best practices](https://twitter.com/akshayktwt/status/1651564459931103233?s=20)
 
 <details>
 <summary><h2>My GitHub Stats</h2></summary>
