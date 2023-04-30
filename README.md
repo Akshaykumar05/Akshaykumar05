@@ -63,7 +63,10 @@ Impo... </p> <br/> <br/>
 </div>
 
 <h2>Recent Twitter Spaces </h2>
-* [DevOps and Cloud best practices](https://twitter.com/akshayktwt/status/1651564459931103233?s=20)
+
+- [DevOps and Cloud best practices](https://twitter.com/akshayktwt/status/1651564459931103233?s=20)
+
+- [All about Cloud and DevOps](https://twitter.com/akshayktwt/status/1647260398561665030?s=20)
 
 <details>
 <summary><h2>My GitHub Stats</h2></summary>
