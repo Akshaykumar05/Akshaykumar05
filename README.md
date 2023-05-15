@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/> I'm Akshay Kumar</h1> 
-<h3 align="center">I am passionate about Cloud, DevOps and DevRel</h3>
+<h3 align="center">I am passionate about Cloud, DevOps and Community</h3>
 
 ![](https://e0.pxfuel.com/wallpapers/858/778/desktop-wallpaper-artstation-purple-bedroom-anastasia-ermakova-anime-gamer-room.jpg)
 
