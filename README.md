@@ -28,7 +28,8 @@ src="https://img.shields.io/twitter/follow/akshayktwt?logo=twitter&style=for-the
 
 ## **Talking about Personal Stuffs:** 🧐
 - 🔭 I’m currently working as a founder and Manager at [GrowInCommunity](https://twitter.com/GrowInComm), this community is to help & guide people along with my tech learning journey and the main agenda is to Learn, Build & Grow together in community. And we keep regular weekly Sunday sessions in our [discord](https://discord.gg/VPy8p2qJ) server.
-- 🌱 Doing internship of **DevOps** at **IoTIoT.in** and **Ambassador** of [KubeSimplify](https://kubesimplify.com/) and [Wilco](https://www.trywilco.com/)
+- 🌱 Doing internship of **DevOps** at **IoTIoT.in** and **freelancing** in Cloud and DevOps.
+- ⚡ I am  **Ambassador** of [KubeSimplify](https://kubesimplify.com/) and [Wilco](https://www.trywilco.com/)
 - 💞️ I’m open to collaborate on GitHub and opend source projects related to cloud computing and cloud native.
 - 💬 Ask me about **Cloud, DevOps, How to grow in Tech and UPSC**
 - 📝 I write blogs on [Hashnode](https://imransaifi.hashnode.dev/)
