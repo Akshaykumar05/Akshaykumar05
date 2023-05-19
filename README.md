@@ -33,7 +33,7 @@ src="https://img.shields.io/twitter/follow/akshayktwt?logo=twitter&style=for-the
 - 💞️ I’m open to collaborate on GitHub and opend source projects related to cloud computing and cloud native.
 - 💬 Ask me about **Cloud, DevOps, How to grow in Tech and UPSC**
 - 📝 I write blogs on [Hashnode](https://imransaifi.hashnode.dev/)
-- ⚡ My hobbies are **Book reading, Dance, Music & Boxing**
+- ⚡ My hobbies are **Book reading, Dance & Boxing**
 - 🤔 Fun fact: Before starting my career in tech, I was preparing for **UPSC** 
 - 📫 Reach out to me at **akshaycloud22@gmail.com** 
 
