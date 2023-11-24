@@ -27,11 +27,11 @@ src="https://img.shields.io/twitter/follow/akshayktwt?logo=twitter&style=for-the
 <img src="https://wilcobadge.vercel.app/api/handler?wilconame=Akshaykumar05" />
 
 ## **Talking about Personal Stuffs:** 🧐
-- 🔭 I’m currently working as a Linux intern at [Keen and Able](https://www.keenable.in/) and I am a founder and Manager at [GrowInCommunity](https://twitter.com/GrowInComm), this community is to help & guide people along with my tech learning journey and the main agenda is to Learn, Build & Grow together in community. And we keep regular weekly Sunday sessions in our [discord](https://discord.gg/VPy8p2qJ) server.
-- 🌱 Doing internship of **DevOps** at **IoTIoT.in** and **freelancing** in Cloud and DevOps.
+- 🔭 I’m currently working as a Linux intern at [Keen and Able](https://www.keenable.in/) and I am a founder and Manager at [GrowInCommunity](https://twitter.com/GrowInComm), this community is to help & guide people along with my tech learning journey and the main agenda is to Learn, Build & Grow together in the community. And we keep regular weekly Sunday sessions in our [discord](https://discord.gg/VPy8p2qJ) server.
+- 🌱 
 - ⚡ I am  **Ambassador** of [KubeSimplify](https://kubesimplify.com/) and [Wilco](https://www.trywilco.com/)
 - 💞️ I’m open to collaborate on GitHub and opend source projects related to cloud computing and cloud native.
-- 💬 Ask me about **Cloud, DevOps, How to grow in Tech and UPSC**
+- 💬 Ask me about **Cloud, DevOps, How to grow in Tech**
 - 📝 I write blogs on [Hashnode](https://imransaifi.hashnode.dev/)
 - ⚡ My hobbies are **Book reading, Dance & Boxing**
 - 🤔 Fun fact: Before starting my career in tech, I was preparing for **UPSC** 
