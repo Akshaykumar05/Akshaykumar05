@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <br/> I'm Akshay Kumar</h1> 
 <h3 align="center">I am passionate about Cloud, DevOps and Community</h3>
 
-![](https://e0.pxfuel.com/wallpapers/858/778/desktop-wallpaper-artstation-purple-bedroom-anastasia-ermakova-anime-gamer-room.jpg)
+![Linkedin banner](https://github.com/Akshaykumar05/Akshaykumar05/assets/114390890/616a47c1-65b4-423b-9fd2-923735dceb51)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaykumar05&label=Profile%20views&color=0e75b6&style=flat" alt="akshaykumar05" /> </p>
 <a href="https://twitter.com/akshayktwt" target="_blank" rel="noreferrer"><img
