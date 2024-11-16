@@ -72,6 +72,8 @@ Impo... </p> <br/> <br/>
 
 - [All about Cloud and DevOps](https://twitter.com/akshayktwt/status/1647260398561665030?s=20)
 
+- [Careeer Guidance](https://x.com/akshayktwt/status/1799795721220366443?t=Lgvr1pgCDwpf2xuWTqdFKg&s=19)
+
 <details>
 <summary><h2>My GitHub Stats</h2></summary>
 </div>
