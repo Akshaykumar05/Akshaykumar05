@@ -32,7 +32,7 @@ src="https://img.shields.io/twitter/follow/akshayktwt?logo=twitter&style=for-the
 - ⚡ Ex  **Ambassador** of [KubeSimplify](https://kubesimplify.com/) and [Wilco](https://www.trywilco.com/)
 - 💞️ I’m open to collaborate on GitHub and opend source projects related to cloud computing and cloud native.
 - 💬 Ask me about **Cloud, DevOps, Open Source and Community**
-- 📝 I write blogs on [Hashnode](https://imransaifi.hashnode.dev/)
+- 📝 I write blogs on [Hashnode](https://hashnode.com/@Akshaykumar05)
 - ⚡ My hobbies are **Book reading, Dance & Boxing**
 - 🤔 Fun fact: Before starting my career in tech, I was preparing for **UPSC IAS Exam** 
 - 📫 Reach out to me at **akshaycloud22@gmail.com**
