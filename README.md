@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/> I'm Akshay Kumar</h1> 
-<h3 align="center">I am passionate about Cloud, DevOps and Community</h3>
+<h3 align="center">I am passionate about AI, DevOps and Community</h3>
 
 ![Linkedin banner](https://github.com/Akshaykumar05/Akshaykumar05/assets/114390890/616a47c1-65b4-423b-9fd2-923735dceb51)
 
@@ -28,7 +28,7 @@ src="https://img.shields.io/twitter/follow/akshayktwt?logo=twitter&style=for-the
 <img src="https://wilcobadge.vercel.app/api/handler?wilconame=Akshaykumar05" />
 
 ## **Talking about Personal Stuffs:** 🧐
-- 🔭 I’m currently working as an Open Source Evangelist at [Obmondo](https://obmondo.com/) And founder at [GrowInCommunity](https://growincommunity.com/), this community is to help & guide people along with my tech learning journey and the main agenda is to Learn, Build & Grow together in the community. And we keep regular monthly sessions on our [discord](https://discord.gg/VPy8p2qJ) server.
+- 🔭 I’m currently working as an Project Manager at [Cognerd.ai](https://www.cognerd.ai/) And founder at [GrowInCommunity](https://growincommunity.com/), this community is to help & guide people along with my tech learning journey and the main agenda is to Learn, Build & Grow together in the community. And we keep regular monthly sessions on our [discord](https://discord.gg/VPy8p2qJ) server.
 - ⚡ Ex  **Ambassador** of [KubeSimplify](https://kubesimplify.com/) and [Wilco](https://www.trywilco.com/)
 - 💞️ I’m open to collaborate on GitHub and opend source projects related to cloud computing and cloud native.
 - 💬 Ask me about **Cloud, DevOps, Open Source and Community**
